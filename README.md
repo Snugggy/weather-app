@@ -2,7 +2,10 @@
 weather app to display current weather  
 the weather app is defaulted to Austin, Tx.  
 once a new city and state is saved, the data is stored in local storage for future use  
-data is retrieved from 'weatherstack' weather api  
+data is retrieved from 'weatherstack' weather api 
+
+
+## Personal api key has been removed, for code to work, user must obtain api key from weatherstack.com and paste it into 'this.apiKey' in the weather.js file.
 
 ### To run
 
