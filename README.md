@@ -1,7 +1,7 @@
 # Weather-app
 weather app to display current weather  
 the weather app is defaulted to Austin, Tx.  
-once a new city, and state is saved, the data is stored in local storage for future use  
+once a new city and state is saved, the data is stored in local storage for future use  
 
 ### To run
 
